@@ -7,4 +7,4 @@ I am a dedicated Python developer with a passion for creating innovative and eff
 
 
 
-- [Repository 1](https://github.com/yourusername/repository1)
+- [Repository 1](https://github.com/AslanBe1/repository1)
