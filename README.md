@@ -8,9 +8,6 @@ I am a dedicated Python developer with a passion for creating innovative and eff
 - Data Analysis 📊 (Pandas, NumPy)
 - Open-source Contributor 🤝
 
-##📂 Projects:
- [Cool Repo 2](https://github.com/AslanBe1/project)
-
 ## Python Developer
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
